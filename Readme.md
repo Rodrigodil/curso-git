@@ -7,4 +7,4 @@ Saiba mais em [rodrigodil.com](https://rodrigodil.com)
 
 Gostou do curso?
 
-teste
+Rodrigo Palombo
